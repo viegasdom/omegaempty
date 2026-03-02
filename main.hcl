@@ -1,6 +1,6 @@
 resource "lab" "main" {
-  title       = "Auth Fix Test"
-  description = "Outline the lab's learning objectives, topics, and prerequisites."
+  title       = "Auth Fix Verified"
+  description = "Sync to remote works without credential helpers."
 
   layout = resource.layout.single_panel
 
